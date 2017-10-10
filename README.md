@@ -1,0 +1,2 @@
+# memoco
+codice corso MEMOCO
