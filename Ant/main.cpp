@@ -1,7 +1,4 @@
-/**
- * @file main.cpp
- * @brief 
- */
+//main.cpp
 
 #include <stdexcept>
 #include <ctime>
